@@ -1,2 +1,2 @@
-*.csv
-*.pem
+accessKeys.csv
+aws-onramp.pem
